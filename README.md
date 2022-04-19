@@ -14,6 +14,9 @@
 ---
 
 ## ✔2022  [       «🎯Back To Top»       ](#)
+
+---
+
 - (arXiv preprint 2022) **A Coding Framework and Benchmark towards Compressed Video Understanding**, Yuan Tian, Guo Lu, Yichao Yan, Guangtao Zhai, Li Chen, Zhiyong Gao. [[paper]](https://arxiv.org/pdf/2202.02813.pdf)
 
 - (Under review ICLR 2022) **Learning Perceptual Compression of Facial Video**, Shukor, Mustafa and Xu, YAO and Damodaran, Bharath Bhushan and Hellier, Pierre. [[paper]](https://openreview.net/pdf?id=4ZEJ_Z18NH)
@@ -21,7 +24,9 @@
 - (Under review ICLR 2022) **Uncertainty-Aware Deep Video Compression with Ensembles**, Ma, Wufei and Li, Jiahao and Li, Bin and Lu, Yan. [[paper]](https://openreview.net/pdf?id=vkZtFD0zga8)
 
 - (TPAMI 2022) **Multi-modality deep restoration of extremely compressed face videos**, Zhang, Xi and Wu, Xiaolin. [[paper]](https://openreview.net/pdf?id=vkZtFD0zga8)
-- 
+
+- (Signal Processing: Image Communication 2022) **Learning to compress videos without computing motion**, Chen, Meixu and Goodall, Todd and Patney, Anjul and Bovik, Alan C. [[paper]](https://reader.elsevier.com/reader/sd/pii/S0923596522000029?token=0DD9114AD904612721941553941BA62D7D7F1FCC292AF6C26D121372C2E69C81B4ACDCBD040F51AA44EEF35A1038DE80&originRegion=us-east-1&originCreation=20220419084824)
+  
 ---
 
 ## ✔2021 [       «🎯Back To Top»       ](#)
@@ -53,16 +58,69 @@
 - (CVPR 21) **ELF-VC: Efficient Learned Flexible-Rate Video Coding**, Rippel, Oren and Anderson, Alexander G and Tatwawadi, Kedar and Nair, Sanjay and Lytle, Craig and Bourdev, Lubomir. [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Rippel_ELF-VC_Efficient_Learned_Flexible-Rate_Video_Coding_ICCV_2021_paper.pdf)
 
 - (CVPR 21) **FVC: A New Framework towards Deep Video Compression in Feature Space**, Hu, Zhihao and Lu, Guo and Xu, Dong. [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Hu_FVC_A_New_Framework_Towards_Deep_Video_Compression_in_Feature_CVPR_2021_paper.pdf)
+
+- (CVPR 21) **Deep Perceptual Preprocessing for Video Coding**, Aaron Chadha, Yiannis Andreopoulos. [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Chadha_Deep_Perceptual_Preprocessing_for_Video_Coding_CVPR_2021_paper.pdf)
+
+
+- (CVPR 21) **Deep learning in latent space for video prediction and compression**, Liu, Bowen and Chen, Yu and Liu, Shiyu and Kim, Hun-Seok. [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_Deep_Learning_in_Latent_Space_for_Video_Prediction_and_Compression_CVPR_2021_paper.pdf)
+
+- (arXiv preprint 2021) **Neural Video Compression using GANs for Detail Synthesis and Propagation**, Mentzer, Fabian and Agustsson, Eirikur and Ball{\'e}, Johannes and Minnen, David and Johnston, Nick and Toderici, George. [[paper]](https://arxiv.org/pdf/2107.12038.pdf) 
+
+- (arXiv preprint 2021) **Neural weight step video compression**, Czerkawski, Mikolaj and Cardona, Javier and Atkinson, Robert and Michie, Craig and Andonovic, Ivan and Clemente, Carmine and Tachtatzis, Christos. [[paper]](https://arxiv.org/pdf/2112.01504.pdf) 
+
+- (ICLR 2021) **Hierarchical autoregressive modeling for neural video compression**, Yang, Ruihan and Yang, Yibo and Marino, Joseph and Mandt, Stephan. [[paper]](https://arxiv.org/pdf/2010.10258.pdf) 
+
+- (TPAMI 2021) **An end-to-end learning framework for video compression**, Lu, Guo and Zhang, Xiaoyun and Ouyang, Wanli and Chen, Li and Gao, Zhiyong and Xu, Dong. [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9072487) 
+
+
 ---
 
 ## ✔2020 [       «🎯Back To Top»       ](#)
 
 ---
 
+- (AAAI 20) **Learned video compression via joint spatial-temporal correlation exploration**, Yang, Ren and Mentzer, Fabian and Gool, Luc Van and Timofte, Radu. [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/6825/6679) 
+
+
+- (CVPR 20) **Learning for video compression with hierarchical quality and recurrent enhancement**, Liu, Haojie and Shen, Han and Huang, Lichao and Lu, Ming and Chen, Tong and Ma, Zhan. [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_Learning_for_Video_Compression_With_Hierarchical_Quality_and_Recurrent_Enhancement_CVPR_2020_paper.pdf) 
+  
+- (CVPR 20) **M-LVC: Multiple frames prediction for learned video compression**, Lin, Jianping and Liu, Dong and Li, Houqiang and Wu, Feng. [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Lin_M-LVC_Multiple_Frames_Prediction_for_Learned_Video_Compression_CVPR_2020_paper.pdf)
+
+- (ACCV 20) **Feedback recurrent autoencoder for video compression**, Lin, Golinski, Adam and Pourreza, Reza and Yang, Yang and Sautiere, Guillaume and Cohen, Taco S. [[paper]](https://openaccess.thecvf.com/content/ACCV2020/papers/Golinski_Feedback_Recurrent_Autoencoder_for_Video_Compression_ACCV_2020_paper.pdf)
+- 
+---
+
 ## ✔2019 [       «🎯Back To Top»       ](#)
 
 ---
 
+- (ICCV 19) **Dvc: An end-to-end deep video compression framework**, Lu, Guo and Ouyang, Wanli and Xu, Dong and Zhang, Xiaoyun and Cai, Chunlei and Gao, Zhiyong. [[paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Lu_DVC_An_End-To-End_Deep_Video_Compression_Framework_CVPR_2019_paper.pdf) 
+  
+- (ICCV 19) **Learned video compression**, Rippel, Oren and Nair, Sanjay and Lew, Carissa and Branson, Steve and Anderson, Alexander G and Bourdev, Lubomir. [[paper]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Rippel_Learned_Video_Compression_ICCV_2019_paper.pdf) 
+
+- (NIPS 19) **Deep generative video compression**, Lombardo, Salvator and Han, Jun and Schroers, Christopher and Mandt, Stephan. [[paper]](https://proceedings.neurips.cc/paper/2019/file/f1ea154c843f7cf3677db7ce922a2d17-Paper.pdf) 
+
+- (CVPR 19) **Learning image and video compression through spatial-temporal energy compaction**, Cheng, Zhengxue and Sun, Heming and Takeuchi, Masaru and Katto, Jiro. [[paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Cheng_Learning_Image_and_Video_Compression_Through_Spatial-Temporal_Energy_Compaction_CVPR_2019_paper.pdf) 
+
+- (PCS 19) **A novel deep progressive image compression framework**, Cai, Chunlei and Chen, Li and Zhang, Xiaoyun and Lu, Guo and Gao, Zhiyong. [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8954500) 
+  
+
+---
+
 ## ✔2018 [       «🎯Back To Top»       ](#)
+
+---
+
+- (ECCV 18) **Video compression through image interpolation**, Wu, Chao-Yuan and Singhal, Nayan and Krahenbuhl, Philipp. [[paper]](https://openaccess.thecvf.com/content_ECCV_2018/papers/Chao-Yuan_Wu_Video_Compression_through_ECCV_2018_paper.pdf) 
+
+- (TCSVT 18) **Video compression through image interpolation**, Wu, Chao-Yuan and Singhal, Nayan and Krahenbuhl, Philipp. [[paper]](https://openaccess.thecvf.com/content_ECCV_2018/papers/Chao-Yuan_Wu_Video_Compression_through_ECCV_2018_paper.pdf) 
+
+---
+
+## ✔2017 [       «🎯Back To Top»       ](#)
+
+---
+
+- (VCIP 17) **Video compression based on spatio-temporal resolution adaptation**, Afonso, Mariana and Zhang, Fan and Bull, David R. [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8517114) 
 
 ---
