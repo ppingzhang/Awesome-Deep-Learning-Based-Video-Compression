@@ -28,7 +28,10 @@
 - (Under review ICLR 2022) **Uncertainty-Aware Deep Video Compression with Ensembles**, Ma, Wufei and Li, Jiahao and Li, Bin and Lu, Yan. [[paper]](https://openreview.net/pdf?id=vkZtFD0zga8)
 
 - (Signal Processing: Image Communication 2022) **Learning to compress videos without computing motion**, Chen, Meixu and Goodall, Todd and Patney, Anjul and Bovik, Alan C. [[paper]](https://reader.elsevier.com/reader/sd/pii/S0923596522000029?token=0DD9114AD904612721941553941BA62D7D7F1FCC292AF6C26D121372C2E69C81B4ACDCBD040F51AA44EEF35A1038DE80&originRegion=us-east-1&originCreation=20220419084824)
-  
+
+- (arXiv preprint 2022) **Multi-View Video Coding with GAN Latent Learnin**, Lan, Chengdong and Luo, Cheng and Yan, Hao and Zhao, Tiesong and Kwong, Sam. [[paper]](https://arxiv.org/pdf/2205.03599.pdf)
+
+
 ---
 
 ## <span id="2021">✔2021 </span> [       «🎯Back To Top»       ](#)
@@ -91,6 +94,8 @@
 - (CVPR 20) **Learning for video compression with hierarchical quality and recurrent enhancement**, Liu, Haojie and Shen, Han and Huang, Lichao and Lu, Ming and Chen, Tong and Ma, Zhan. [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_Learning_for_Video_Compression_With_Hierarchical_Quality_and_Recurrent_Enhancement_CVPR_2020_paper.pdf) 
   
 - (CVPR 20) **M-LVC: Multiple frames prediction for learned video compression**, Lin, Jianping and Liu, Dong and Li, Houqiang and Wu, Feng. [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Lin_M-LVC_Multiple_Frames_Prediction_for_Learned_Video_Compression_CVPR_2020_paper.pdf)
+
+- (CVPR 20) **Learned video compression with feature-level residuals**, Feng R, Wu Y, Guo Z, et al. [[paper]](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w7/Feng_Learned_Video_Compression_With_Feature-Level_Residuals_CVPRW_2020_paper.pdf)
 
 - (ACCV 20) **Feedback recurrent autoencoder for video compression**, Lin, Golinski, Adam and Pourreza, Reza and Yang, Yang and Sautiere, Guillaume and Cohen, Taco S. [[paper]](https://openaccess.thecvf.com/content/ACCV2020/papers/Golinski_Feedback_Recurrent_Autoencoder_for_Video_Compression_ACCV_2020_paper.pdf)
 - 
