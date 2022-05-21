@@ -98,7 +98,9 @@
 - (CVPR 20) **Learned video compression with feature-level residuals**, Feng R, Wu Y, Guo Z, et al. [[paper]](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w7/Feng_Learned_Video_Compression_With_Feature-Level_Residuals_CVPRW_2020_paper.pdf)
 
 - (ACCV 20) **Feedback recurrent autoencoder for video compression**, Lin, Golinski, Adam and Pourreza, Reza and Yang, Yang and Sautiere, Guillaume and Cohen, Taco S. [[paper]](https://openaccess.thecvf.com/content/ACCV2020/papers/Golinski_Feedback_Recurrent_Autoencoder_for_Video_Compression_ACCV_2020_paper.pdf)
-- 
+
+- (CSUR 20) **Deep learning-based video coding: A review and a case study**, Liu, Dong and Li, Yue and Lin, Jianping and Li, Houqiang and Wu, Feng. [[paper]](https://dl.acm.org/doi/pdf/10.1145/3368405)
+  
 ---
 
 ## <span id="2019">✔2019 </span> [       «🎯Back To Top»       ](#)
@@ -115,6 +117,7 @@
 
 - (PCS 19) **A novel deep progressive image compression framework**, Cai, Chunlei and Chen, Li and Zhang, Xiaoyun and Lu, Guo and Gao, Zhiyong. [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8954500) 
   
+- (TCSVT 19) **Image and video compression with neural networks: A review**, Ma, Siwei and Zhang, Xinfeng and Jia, Chuanmin and Zhao, Zhenghui and Wang, Shiqi and Wang, Shanshe. [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8693636) 
 
 ---
 
