@@ -20,7 +20,7 @@
 - (CVPRW 2022) **Learned Low Bitrate Video Compression With Space-Time Super-Resolution** Yang, Jiayu and Yang, Chunhui and Xiong, Fei and Wang, Feng and Wang, Ronggang [[paper](https://openaccess.thecvf.com/content/CVPR2022W/CLIC/papers/Yang_Learned_Low_Bitrate_Video_Compression_With_Space-Time_Super-Resolution_CVPRW_2022_paper.pdf)]
 - (CVPR 2022) **Coarse-to-fine Deep Video Coding with Hyperprior-guided Mode Prediction** Zhihao Hu, Guo Lu, Jinyang Guo, Shan Liu, Wei Jiang, Dong Xu [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Hu_Coarse-To-Fine_Deep_Video_Coding_With_Hyperprior-Guided_Mode_Prediction_CVPR_2022_paper.pdf)]
 - (CVPR 2022) **Learning Based Multi-Modality Image and Video Compression**, Lu, Guo and Zhong, Tianxiong and Geng, Jing and Hu, Qiang and Xu, Dong [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Lu_Learning_Based_Multi-Modality_Image_and_Video_Compression_CVPR_2022_paper.pdf)]
-- (TPAMI 2022) **Multi-modality deep restoration of extremely compressed face videos**, Zhang, Xi and Wu, Xiaolin. [[paper]](https://openreview.net/pdf?id=vkZtFD0zga8)
+- (TPAMI 2022) **Multi-modality deep restoration of extremely compressed face videos**, Zhang, Xi and Wu, Xiaolin. [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9730053)
   
 - (arXiv preprint 2022) **A Coding Framework and Benchmark towards Compressed Video Understanding**, Yuan Tian, Guo Lu, Yichao Yan, Guangtao Zhai, Li Chen, Zhiyong Gao. [[paper]](https://arxiv.org/pdf/2202.02813.pdf)
 
