@@ -29,7 +29,12 @@
 
 - (Signal Processing: Image Communication 2022) **Learning to compress videos without computing motion**, Chen, Meixu and Goodall, Todd and Patney, Anjul and Bovik, Alan C. [[paper]](https://reader.elsevier.com/reader/sd/pii/S0923596522000029?token=0DD9114AD904612721941553941BA62D7D7F1FCC292AF6C26D121372C2E69C81B4ACDCBD040F51AA44EEF35A1038DE80&originRegion=us-east-1&originCreation=20220419084824)
 
-- (arXiv preprint 2022) **Multi-View Video Coding with GAN Latent Learnin**, Lan, Chengdong and Luo, Cheng and Yan, Hao and Zhao, Tiesong and Kwong, Sam. [[paper]](https://arxiv.org/pdf/2205.03599.pdf)
+- (arXiv preprint 2022) **Multi-View Video Coding with GAN Latent Learning**, Lan, Chengdong and Luo, Cheng and Yan, Hao and Zhao, Tiesong and Kwong, Sam. [[paper]](https://arxiv.org/pdf/2205.03599.pdf)
+
+- (ICASSP 2022) **Rate Control for Learned Video Compression**, Li, Yanghao and Chen, Xinyao and Li, Jisheng and Wen, Jiangtao and Han, Yuxing and Liu, Shan and Xu, Xiaozhong. [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9746080)
+
+- (TCSVT 2022) **Edge-Based Video Compression Texture Synthesis using Generative Adversarial Network**, Zhu, Chen and Xu, Jun and Feng, Donghui and Xie, Rong and Song, Li. [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9762281)
+
 
 
 ---
