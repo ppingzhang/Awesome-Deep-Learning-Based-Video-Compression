@@ -5,6 +5,7 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![Visitors](https://visitor-badge.glitch.me/badge?page_id=ppingzhang/Awesome-Deep-Learning-Based-Video-Compression) ![GitHub stars](https://img.shields.io/github/stars/ppingzhang/Awesome-Deep-Learning-Based-Video-Compression.svg?color=red) 
 
 # Content
+- [2023](#2023)
 - [2022](#2022)
 - [2021](#2021)
 - [2020](#2020)
@@ -12,11 +13,42 @@
 - [2018](#2018)
 - [2017](#2017)
 
+
+
+---
+
+## <span id="2023">✔2023 </span> [       «🎯Back To Top»       ](#)
+
+- (ICASSP 2023) **LCCM-VC: LEARNED CONDITIONAL CODING MODES FOR VIDEO CODING** Hadi Hadizadeh and Ivan V. Bajic [paper](https://arxiv.org/pdf/2210.15883.pdf)
+
+- (ICLR 2023) **EVC: TOWARDS REAL-TIME NEURAL IMAGE COMPRESSION WITH MASK DECA** Wang, Guo-Hua and Li, Jiahao and Li, Bin and Lu, Yan [paper](https://arxiv.org/pdf/2302.05071.pdf)
+
+- (Arxiv 2023) **Interactive Face Video Coding: A Generative
+Compression Framework** Chen, Bolin and Wang, Zhao and Li, Binzhe and Wang, Shurun and Wang, Shiqi and Ye, Yan [paper](https://arxiv.org/pdf/2302.09919.pdf)
+
+- (Arxiv 2023) **Butterfly: Multiple Reference Frames Feature Propagation Mechanism for Neural Video Compression** Wang, Feng and Ruan, Haihang and Xiong, Fei and Yang, Jiayu and Li, Litian and Wang, Ronggang [paper](https://arxiv.org/pdf/2303.02959.pdf)
+
 ---
 
 ## <span id="2022">✔2022 </span> [       «🎯Back To Top»       ](#)
 
 ---
+
+- （Arxiv 2022） **VCT: A Video Compression Transformer** Mentzer, Fabian and Toderici, George and Minnen, David and Hwang, Sung-Jin and Caelles, Sergi and Lucic, Mario and Agustsson, Eirikur [paper](https://arxiv.org/pdf/2206.07307.pdf)
+
+- (ECCV 2022) **Neural Video Compression Using GANs for Detail Synthesis and Propagation** Mentzer, Fabian and Agustsson, Eirikur and Ball{\'e}, Johannes and Minnen, David and Johnston, Nick and Toderici, George [paper](https://link.springer.com/content/pdf/10.1007/978-3-031-19809-0_32.pdf)
+- (ECCV 2022) **Canf-vc: Conditional augmented normalizing flows for video compression** Ho, Yung-Han and Chang, Chih-Peng and Chen, Peng-Yu and Gnutti, Alessandro and Peng, Wen-Hsiao [paper](https://link.springer.com/content/pdf/10.1007/978-3-031-19787-1_12.pdf)
+- (ECCV 2022) **AlphaVC: High-Performance and Efficient Learned Video Compression** Shi, Yibo and Ge, Yunying and Wang, Jing and Mao, Jue [paper](https://link.springer.com/content/pdf/10.1007/978-3-031-19800-7_36.pdf)
+
+- (ACM MM 2022) **Hybrid Spatial-Temporal Entropy Modelling for Neural Video Compression** Li, Jiahao and Li, Bin and Lu, Yan. [paper](https://arxiv.org/pdf/2207.05894.pdf)
+
+- (TMM 2022) **Temporal Context Mining for Learned Video Compression** Sheng, Xihua and Li, Jiahao and Li, Bin and Li, Li and Liu, Dong and Lu, Yan [paper](https://arxiv.org/pdf/2111.13850.pdf)
+
+- (TCSVT 2022) **HMFVC: A Human-Machine Friendly Video Compression Scheme** Huang, Zhimeng and Jia, Chuanmin and Wang, Shanshe and Ma, Siwei [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9894405)
+
+- (arXiv preprint 2022) **CONTENT-ADAPTIVE MOTION RATE ADAPTION FOR LEARNED VIDEO COMPRESSION** Chen, Chih-Hsuan Lin Yi-Hsin and Peng, Wen-Hsiao [[paper](http://mapl.nctu.edu.tw/content/pages/research/PCS_2022.pdf)]
+
+- (CVPRW 2022) **Learned Low Bitrate Video Compression with Space-Time Super-Resolution** Yang, Jiayu and Yang, Chunhui and Xiong, Fei and Wang, Feng and Wang, Ronggang [[paper](https://openaccess.thecvf.com/content/CVPR2022W/CLIC/papers/Yang_Learned_Low_Bitrate_Video_Compression_With_Space-Time_Super-Resolution_CVPRW_2022_paper.pdf)]
 - (CVPRW 2022) **Learned Low Bitrate Video Compression With Space-Time Super-Resolution** Yang, Jiayu and Yang, Chunhui and Xiong, Fei and Wang, Feng and Wang, Ronggang [[paper](https://openaccess.thecvf.com/content/CVPR2022W/CLIC/papers/Yang_Learned_Low_Bitrate_Video_Compression_With_Space-Time_Super-Resolution_CVPRW_2022_paper.pdf)]
 - (CVPR 2022) **Coarse-to-fine Deep Video Coding with Hyperprior-guided Mode Prediction** Zhihao Hu, Guo Lu, Jinyang Guo, Shan Liu, Wei Jiang, Dong Xu [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Hu_Coarse-To-Fine_Deep_Video_Coding_With_Hyperprior-Guided_Mode_Prediction_CVPR_2022_paper.pdf)]
 - (CVPR 2022) **Learning Based Multi-Modality Image and Video Compression**, Lu, Guo and Zhong, Tianxiong and Geng, Jing and Hu, Qiang and Xu, Dong [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Lu_Learning_Based_Multi-Modality_Image_and_Video_Compression_CVPR_2022_paper.pdf)]
