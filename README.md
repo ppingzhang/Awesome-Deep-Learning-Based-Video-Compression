@@ -14,7 +14,7 @@
 - [2018](#2018)
 - [2017](#2017)
 
-## <span id="2024">✔2023 </span> [       «🎯Back To Top»       ](#)
+## <span id="2024">✔2024 </span> [       «🎯Back To Top»       ](#)
 
 
 - (WCACV 2024) **MobileNVC: Real-time 1080p Neural Video Compression on a Mobile Device** van Rozendaal, Ties and others [paper](https://arxiv.org/pdf/2310.01258.pdf) 
