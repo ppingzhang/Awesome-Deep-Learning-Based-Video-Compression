@@ -14,12 +14,15 @@
 - [2018](#2018)
 - [2017](#2017)
 
-## <span id="2024">✔2023 </span> [       «🎯Back To Top»       ](#)
+## <span id="2024">✔2024 </span> [       «🎯Back To Top»       ](#)
 
 
 - (WCACV 2024) **MobileNVC: Real-time 1080p Neural Video Compression on a Mobile Device** van Rozendaal, Ties and others [paper](https://arxiv.org/pdf/2310.01258.pdf) 
 
 - (TPAMI 2024) **VNVC: A Versatile Neural Video Coding Framework for Efficient Human-Machine Vision** Sheng, Xihua and Li, Li and Liu, Dong and Li, Houqiang [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10411051&casa_token=SATXNmT8_RUAAAAA:lIcbJH933NSAAoZP_IGqEPJy6dkK3J9soKCjCWGLZa-qRS8m5oJR4Tcy9XADF2ssEzSfsdvM)
+
+- (TIP 2024) **Cross-Component Prediction Boosted With Local and Non-Local Information in Video Coding** Zhang, Kai and Deng, Zhipin and Zhang, Li [paper](https://ieeexplore.ieee.org/document/10413275)
+
 
 - (TCSVT 2024) **Spatial Decomposition and Temporal Fusion based Inter Prediction for Learned Video Compression** Becking, Daniel and M{\"u}ller, Karsten and Haase, Paul and Kirchhoffer, Heiner and Tech, Gerhard and Samek, Wojciech and Schwarz, Heiko and Marpe, Detlev and Wiegand, Thomas [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10412190)
 
@@ -27,9 +30,17 @@
 
 - (Arxiv 2024) **Low-Rate, Low-Distortion Compression with Wasserstein Distortion** Qiu, Yang and Wagner, Aaron B [paper](https://arxiv.org/pdf/2401.16858.pdf)
 - (Arxiv 2024) **LVC-LGMC: Joint Local and Global Motion Compensation for Learned Video Compression** Jiang, Wei and Li, Junru and Zhang, Kai and Zhang, Li[paper](https://arxiv.org/pdf/2402.00680.pdf)
+- (Arxiv 2024) **Immersive Video Compression using Implicit Neural Representations** Kwan, Ho Man and Zhang, Fan and Gower, Andrew and Bull, David[paper](https://arxiv.org/pdf/2402.01596.pdf)
+- (Arxiv 2024) **Cool-chic video: Learned video coding with 800 parameters** Leguay, Thomas and Ladune, Th{\'e}o and Philippe, Pierrick and D{\'e}forges, Olivier[paper](https://arxiv.org/pdf/2402.03179.pdf)
+- (Arxiv 2024) **A Neural-network Enhanced Video Coding Framework beyond ECM** Zhao, Yanchen and He, Wenxuan and Jia, Chuanmin and Wang, Qizhe and Li, Junru and Li, Yue and Lin, Chaoyi and Zhang, Kai and Zhang, Li and Ma, Siwei [paper](https://arxiv.org/pdf/2402.08397.pdf)
+- (Arxiv 2024) **Motion-Adaptive Inference for Flexible Learned B-Frame Compression** Akin Yilmaz, M and Ugur Ulas, O and Bilican, Ahmet and Murat Tekalp, A [paper](https://arxiv.org/pdf/2402.08550.pdf)
+
+
+
 
 - (VICP 2024) **High-Fidelity Free-View Talking Head Synthesis for Low-Bandwidth Video Conference** Zhang, Zhiyu and Tang, Anni and Zhu, Chen and Lu, Guo and Xie, Rong and Song, Li [paper](https://arxiv.org/pdf/2401.16858.pdf)
 
+- (MMM 2024) **Hierarchical Bi-directional Temporal Context Mining for Improved Video Compression** Lin, Zijian and Luo, Jianping [paper](https://link.springer.com/chapter/10.1007/978-3-031-53305-1_31)
 
 
 
