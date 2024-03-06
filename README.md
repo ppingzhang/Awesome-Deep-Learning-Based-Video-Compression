@@ -20,11 +20,17 @@
 - (WCACV 2024) **MobileNVC: Real-time 1080p Neural Video Compression on a Mobile Device** van Rozendaal, Ties and others [paper](https://arxiv.org/pdf/2310.01258.pdf) 
 
 - (TPAMI 2024) **VNVC: A Versatile Neural Video Coding Framework for Efficient Human-Machine Vision** Sheng, Xihua and Li, Li and Liu, Dong and Li, Houqiang [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10411051&casa_token=SATXNmT8_RUAAAAA:lIcbJH933NSAAoZP_IGqEPJy6dkK3J9soKCjCWGLZa-qRS8m5oJR4Tcy9XADF2ssEzSfsdvM)
+- (TPAMI 2024) **A Coding Framework and Benchmark towards Low-Bitrate Video Understanding** Tian, Yuan and Lu, Guo and Yan, Yichao and Zhai, Guangtao and Chen, Li and Gao, Zhiyong [paper](https://ieeexplore.ieee.org/iel7/34/4359286/10440520.pdf)
+
 
 - (TIP 2024) **Cross-Component Prediction Boosted With Local and Non-Local Information in Video Coding** Zhang, Kai and Deng, Zhipin and Zhang, Li [paper](https://ieeexplore.ieee.org/document/10413275)
 
-
 - (TCSVT 2024) **Spatial Decomposition and Temporal Fusion based Inter Prediction for Learned Video Compression** Becking, Daniel and M{\"u}ller, Karsten and Haase, Paul and Kirchhoffer, Heiner and Tech, Gerhard and Samek, Wojciech and Schwarz, Heiko and Marpe, Detlev and Wiegand, Thomas [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10412190)
+
+
+
+
+- (Arxiv 2024) **Boosting Neural Representations for Videos with a Conditional Decoder** Zhang, Xinjie and Yang, Ren and He, Dailan and Ge, Xingtong and Xu, Tongda and Wang, Yan and Qin, Hongwei and Zhang, Jun [paper](https://arxiv.org/pdf/2402.18152v1.pdf)
 
 - (Arxiv 2024) **Optimal Quality and Efficiency in Adaptive Live Streaming with JND-Aware Low latency Encoding** Menon, Vignesh V and Zhu, Jingwen and Rajendran, Prajit T and Afzal, Samira and Schoeffmann, Klaus and Callet, Patrick Le and Timmerer, Christian [paper](https://arxiv.org/pdf/2401.15343.pdf)
 
@@ -34,6 +40,8 @@
 - (Arxiv 2024) **Cool-chic video: Learned video coding with 800 parameters** Leguay, Thomas and Ladune, Th{\'e}o and Philippe, Pierrick and D{\'e}forges, Olivier[paper](https://arxiv.org/pdf/2402.03179.pdf)
 - (Arxiv 2024) **A Neural-network Enhanced Video Coding Framework beyond ECM** Zhao, Yanchen and He, Wenxuan and Jia, Chuanmin and Wang, Qizhe and Li, Junru and Li, Yue and Lin, Chaoyi and Zhang, Kai and Zhang, Li and Ma, Siwei [paper](https://arxiv.org/pdf/2402.08397.pdf)
 - (Arxiv 2024) **Motion-Adaptive Inference for Flexible Learned B-Frame Compression** Akin Yilmaz, M and Ugur Ulas, O and Bilican, Ahmet and Murat Tekalp, A [paper](https://arxiv.org/pdf/2402.08550.pdf)
+
+- (Arxiv 2024) **Analysis of Neural Video Compression Networks for 360-Degree Video Coding** Regensky, Andy and Brand, Fabian and Kaup, Andr{\'e} [paper](https://arxiv.org/pdf/2402.10257.pdf)
 
 
 
@@ -93,6 +101,8 @@
 - (TCSVT 2023) **Camera Pose-Based Background Modeling for Video Coding in Moving Cameras** Fang, Zheng and Zheng, Mingkui and Chen, Pingping and Chen, Zhifeng and Wu, Dapeng Oliver [paper](https://ieeexplore.ieee.org/abstract/document/10261273)
 - (TCSVT 2023) **Sparse-to-Dense: High Efficiency Rate Control for End-to-end Scale-Adaptive Video Coding** Chen, Jiancong and Wang, Meng and Zhang, Pingping and Wang, Shurun and Wang, Shiqi [paper](https://ieeexplore.ieee.org/abstract/document/10246313)
 - (TCSVT 2023) **MPAI-EEV: Standardization Efforts of Artificial Intelligence based End-to-End Video Coding** Jia, Chuanmin and Ye, Feng and Dong, Fanke and Lin, Kai and Chiariglione, Leonardo and Ma, Siwei and Sun, Huifang and Gao, Wen [paper](https://arxiv.org/pdf/2309.07589.pdf)
+- (TCSVT 2023) **DBVC: An End-to-End 3-D Deep Biomedical Video Coding Framework** Xue, Dongmei and Ma, Haichuan and Li, Li and Liu, Dong and Xiong, Zhiwei and Li, Houqiang [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10210614)
+
 - (CVPR 2023) **Towards Scalable Neural Representation for Diverse Videos** He, Bo and Yang, Xitong and Wang, Hanyu and Wu, Zuxuan and Chen, Hao and Huang, Shuaiyi and Ren, Yixuan and Lim, Ser-Nam and Shrivastava, Abhinav [paper](https://arxiv.org/abs/2303.14124)
 - (CVPR 2023) **DNeRV: Modeling Inherent Dynamics via Difference Neural Representation for Videos** Zhao, Qi and Asif, M Salman and Ma, Zhan [paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhao_DNeRV_Modeling_Inherent_Dynamics_via_Difference_Neural_Representation_for_Videos_CVPR_2023_paper.pdf)
 - (CVPR 2023) **HNeRV: A Hybrid Neural Representation for Videos** Chen, Hao and Gwilliam, Matt and Lim, Ser-Nam and Shrivastava, Abhinav [paper](https://arxiv.org/pdf/2304.02633.pdf)
