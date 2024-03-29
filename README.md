@@ -28,19 +28,22 @@
 - (TCSVT 2024) **Spatial Decomposition and Temporal Fusion based Inter Prediction for Learned Video Compression** Becking, Daniel and M{\"u}ller, Karsten and Haase, Paul and Kirchhoffer, Heiner and Tech, Gerhard and Samek, Wojciech and Schwarz, Heiko and Marpe, Detlev and Wiegand, Thomas [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10412190)
 
 
+- (Arxiv 2024) **Analysis of Neural Video Compression Networks for 360-Degree Video Coding** Regensky, Andy and Brand, Fabian and Kaup, Andr{\'e}[paper](https://arxiv.org/pdf/2402.10257.pdf)
 
+
+- (Arxiv 2024) **Extreme Video Compression with Pre-trained Diffusion Models** Li, Bohan and Liu, Yiming and Niu, Xueyan and Bai, Bo and Deng, Lei and G{\"u}nd{\"u}z, Deniz [paper](https://arxiv.org/pdf/2402.08934v1.pdf)
 
 - (Arxiv 2024) **Boosting Neural Representations for Videos with a Conditional Decoder** Zhang, Xinjie and Yang, Ren and He, Dailan and Ge, Xingtong and Xu, Tongda and Wang, Yan and Qin, Hongwei and Zhang, Jun [paper](https://arxiv.org/pdf/2402.18152v1.pdf)
 
 - (Arxiv 2024) **Optimal Quality and Efficiency in Adaptive Live Streaming with JND-Aware Low latency Encoding** Menon, Vignesh V and Zhu, Jingwen and Rajendran, Prajit T and Afzal, Samira and Schoeffmann, Klaus and Callet, Patrick Le and Timmerer, Christian [paper](https://arxiv.org/pdf/2401.15343.pdf)
 
+- (Arxiv 2024) **VQ-NeRV: A Vector Quantized Neural Representation for Videos** Xu, Yunjie and Feng, Xiang and Qin, Feiwei and Ge, Ruiquan and Peng, Yong and Wang, Changmiao[paper](https://arxiv.org/pdf/2403.12401v1.pdf)
 - (Arxiv 2024) **Low-Rate, Low-Distortion Compression with Wasserstein Distortion** Qiu, Yang and Wagner, Aaron B [paper](https://arxiv.org/pdf/2401.16858.pdf)
 - (Arxiv 2024) **LVC-LGMC: Joint Local and Global Motion Compensation for Learned Video Compression** Jiang, Wei and Li, Junru and Zhang, Kai and Zhang, Li[paper](https://arxiv.org/pdf/2402.00680.pdf)
 - (Arxiv 2024) **Immersive Video Compression using Implicit Neural Representations** Kwan, Ho Man and Zhang, Fan and Gower, Andrew and Bull, David[paper](https://arxiv.org/pdf/2402.01596.pdf)
 - (Arxiv 2024) **Cool-chic video: Learned video coding with 800 parameters** Leguay, Thomas and Ladune, Th{\'e}o and Philippe, Pierrick and D{\'e}forges, Olivier[paper](https://arxiv.org/pdf/2402.03179.pdf)
 - (Arxiv 2024) **A Neural-network Enhanced Video Coding Framework beyond ECM** Zhao, Yanchen and He, Wenxuan and Jia, Chuanmin and Wang, Qizhe and Li, Junru and Li, Yue and Lin, Chaoyi and Zhang, Kai and Zhang, Li and Ma, Siwei [paper](https://arxiv.org/pdf/2402.08397.pdf)
 - (Arxiv 2024) **Motion-Adaptive Inference for Flexible Learned B-Frame Compression** Akin Yilmaz, M and Ugur Ulas, O and Bilican, Ahmet and Murat Tekalp, A [paper](https://arxiv.org/pdf/2402.08550.pdf)
-
 - (Arxiv 2024) **Analysis of Neural Video Compression Networks for 360-Degree Video Coding** Regensky, Andy and Brand, Fabian and Kaup, Andr{\'e} [paper](https://arxiv.org/pdf/2402.10257.pdf)
 
 
@@ -64,23 +67,21 @@
 - (TIP 2023) **Sur-driven video coding rate control for jointly optimizing perceptual quality and buffer control** Yang, Zetao and Gao, Wei and Li, Ge and Yan, Yiqiang [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10266980&casa_token=AgyJU8S3bVUAAAAA:y7CRQnfjtPHN4HBuayf_xeY5QlAMdhhNlCO6CnNUqhMuwMuqyzhuBG52CxQAEphl8_0nfzXx)
 - (Trans BROADCASTING 2023) **Virtual-Competitors-Based Rate Control for 360-Degree Video Coding** Lin, Jielian and Lin, Hongbin and Xu, Yiwen and Kang, Yuanxun and Zhao, Tiesong [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10341540)
 
+- (Neurocomputing 2023) **Multiple Hypotheses Based Motion Compensation for Learned Video Compression** Lin, Rongqun and Wang, Meng and Zhang, Pingping and Wang, Shiqi and Kwong, Sam [paper](https://www.sciencedirect.com/science/article/pii/S0925231223005192?casa_token=4V7fGASs-pYAAAAA:8Lk-HCwftOicqBzj2F6i3YVJCOd9MUnokVmDANZRU1D7mwIPauX_pAAcCaMqiVWKCNzkwFSp)
 
 
-- (ACMMM 2023) **Toward Scalable Image Feature Compression: A Content-Adaptive and Diffusion-Based Approach** Guo, Sha and Chen, Zhuo and Zhao, Yang and Zhang, Ning and Li, Xiaotong and Duan, Lingyu [paper](https://dl.acm.org/doi/pdf/10.1145/3581783.3611851?casa_token=mNmCMwSt2NcAAAAA:pYJtS3-8nkQdv-d0hp5N3OptJqtnjFcfBNOohVR0SqCbdP9mF4tFuAZEN5_WiTkVaxttfYUdfyqJHw)
 - (ACMMM 2023) **High Visual-Fidelity Learned Video Compression** Li, Meng and Shi, Yibo and Wang, Jing and Huang, Yunqi [paper](https://arxiv.org/pdf/2310.04679.pdf)
 - (ACMMM 2023) **DeepSVC: Deep Scalable Video Coding for Both Machine and Human Vision** Li, Meng and Shi, Yibo and Wang, Jing and Huang, Yunqi [paper](https://dl.acm.org/doi/10.1145/3581783.3612500)
 - (ACMMM 2023) **Neural Video Compression with Spatio-Temporal Cross-Covariance Transformers** Chen, Zhenghao and Relic, Lucas and Azevedo, Roberto and Zhang, Yang and Gross, Markus and Xu, Dong and Zhou, Luping and Schroers, Christopher [paper](https://studios.disneyresearch.com/app/uploads/2023/09/Neural-Video-Compression-with-Spatio-Temporal-Cross-Covariance-Transformers-Paper.pdf)
 - (ACMMM 2023) **Peering into The Sketch: Ultra-Low Bitrate Face Compression for Joint Human and Machine Perception** Mao, Yudong and Chen, Peilin and Wang, Shurun and Wang, Shiqi and Wu, Dapeng [paper](https://dl.acm.org/doi/pdf/10.1145/3581783.3613799?casa_token=CE_6kUxeIREAAAAA:xmZFIQJFRKkIZE1VBMyq3npr-gzcJQ4cyJAHDNPivRjQZJ4jcpy5MfJO9WkRIwpFwwBR_11yH7gZkg)
 
 
-- (WCACV 2023) **Controlling Rate, Distortion, and Realism: Towards a Single Comprehensive Neural Image Compression Model** Iwai, Shoma and Miyazaki, Tomo and Omachi, Shinichiro [paper](https://openaccess.thecvf.com/content/WACV2024/papers/Iwai_Controlling_Rate_Distortion_and_Realism_Towards_a_Single_Comprehensive_Neural_WACV_2024_paper.pdf)
 
 
 - (TMM 2023) **End-to-End Distortion Modeling for Error-Resilient Screen Content Video Coding** Tang, Tong and Yin, Zhiyang and Li, Jie and Wang, Honggang and Wu, Dapeng and Wang, Ruyan [paper](https://ieeexplore.ieee.org/abstract/document/10285532)
 
 - (TMM 2023) **Learning to Predict Object-Wise Just Recognizable Distortion for Image and Video Compression** Zhang, Yun and Lin, Haoqin and Sun, Jing and Zhu, Linwei and Kwong, Sam [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10349945&casa_token=zhkj56wMmBQAAAAA:393OXq2npAAaHU5t6XW2D2o-By7m80ucHcQPUPG9tGAf2D78ibRSD-dnKhFrhilz2CNNc78K8g)
 
-- (TMM 2023) **Learning to Predict Object-Wise Just Recognizable Distortion for Image and Video Compression** Zhang, Yun and Lin, Haoqin and Sun, Jing and Zhu, Linwei and Kwong, Sam [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10349945&casa_token=DlCx1Z5dPqAAAAAA:o6FaSVdVKjPVqEQFJHF8vrVQgacD2Vv24S9vg1XnkgX11gEUMVA9Aw8sfiFyxFld3x8nqL-NyA)
 - (TMM 2023) **Enhanced Context Mining and Filtering for Learned Video Compression** Guo, Haifeng and Kwong, Sam and Ye, Dongjie and Wang, Shiqi [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10254316&casa_token=D3_YJB3zg1YAAAAA:8BqE8OyoHJrRtmMj4tshdGApp4sKsOG11-rREhnW-0WhLDWJZ43MFiFsbsKdiNMVr6lX8zz-)
 - (TMM 2023) **Content-adaptive Rate-Distortion Modeling for Frame-level Rate Control in Versatile Video Coding** Liao, Junqi and Li, Li and Liu, Dong and Li, Houqiang [paper](https://ieeexplore.ieee.org/iel7/6046/4456689/10413636.pdf?casa_token=TdPkR5FGB4oAAAAA:Nu-0r0eo2oZwYNHrheWWHhY0XciQvsuO9a9lX-DDhpYLGgowapfbLMALVrkFzq7Omro025xV)
 
@@ -111,6 +112,8 @@
 - (ICASSP 2023) **LCCM-VC: LEARNED CONDITIONAL CODING MODES FOR VIDEO CODING** Hadi Hadizadeh and Ivan V. Bajic [paper](https://arxiv.org/pdf/2210.15883.pdf)
 
 
+
+- (Arxiv 2023) **Implicit-explicit Integrated Representations for Multi-view Video Compression** Zhu, Chen and Lu, Guo and He, Bing and Xie, Rong and Song, Li[paper](https://arxiv.org/pdf/2311.13846.pdf)
 - (Arxiv 2023) **Accelerating Learnt Video Codecs with Gradient Decay and Layer-wise Distillation** Peng, Tianhao and Gao, Ge and Sun, Heming and Zhang, Fan and Bull, David[paper](https://arxiv.org/pdf/2312.02605.pdf)
 - (Arxiv 2023) **Hierarchical Autoencoder-based Lossy Compression for Large-scale High-resolution Scientific Data** Le, Hieu and Santos, Hernan and Tao, Jian[paper](https://arxiv.org/pdf/2307.04216.pdf)
 - (Arxiv 2023) **Offline and Online Optical Flow Enhancement for Deep Video Compression** Tang, Chuanbo and Sheng, Xihua and Li, Zhuoyuan and Zhang, Haotian and Li, Li and Liu, Dong[paper](https://arxiv.org/pdf/2307.05092.pdf)
@@ -160,6 +163,8 @@ Compression Framework** Chen, Bolin and Wang, Zhao and Li, Binzhe and Wang, Shur
 - (CVPRW 2022) **Learned Low Bitrate Video Compression With Space-Time Super-Resolution** Yang, Jiayu and Yang, Chunhui and Xiong, Fei and Wang, Feng and Wang, Ronggang [[paper](https://openaccess.thecvf.com/content/CVPR2022W/CLIC/papers/Yang_Learned_Low_Bitrate_Video_Compression_With_Space-Time_Super-Resolution_CVPRW_2022_paper.pdf)]
 - (CVPR 2022) **Coarse-to-fine Deep Video Coding with Hyperprior-guided Mode Prediction** Zhihao Hu, Guo Lu, Jinyang Guo, Shan Liu, Wei Jiang, Dong Xu [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Hu_Coarse-To-Fine_Deep_Video_Coding_With_Hyperprior-Guided_Mode_Prediction_CVPR_2022_paper.pdf)]
 - (CVPR 2022) **Learning Based Multi-Modality Image and Video Compression**, Lu, Guo and Zhong, Tianxiong and Geng, Jing and Hu, Qiang and Xu, Dong [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Lu_Learning_Based_Multi-Modality_Image_and_Video_Compression_CVPR_2022_paper.pdf)]
+- (CVPR 2022) **LSVC: A Learning-based Stereo Video Compression Framework**, Chen, Zhenghao and Lu, Guo and Hu, Zhihao and Liu, Shan and Jiang, Wei and Xu, Dong [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_LSVC_A_Learning-Based_Stereo_Video_Compression_Framework_CVPR_2022_paper.pdf) 
+
 - (TPAMI 2022) **Multi-modality deep restoration of extremely compressed face videos**, Zhang, Xi and Wu, Xiaolin. [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9730053)
   
 - (arXiv preprint 2022) **A Coding Framework and Benchmark towards Compressed Video Understanding**, Yuan Tian, Guo Lu, Yichao Yan, Guangtao Zhai, Li Chen, Zhiyong Gao. [[paper]](https://arxiv.org/pdf/2202.02813.pdf)
@@ -260,11 +265,13 @@ Compression Framework** Chen, Bolin and Wang, Zhao and Li, Binzhe and Wang, Shur
 
 - (NIPS 19) **Deep generative video compression**, Lombardo, Salvator and Han, Jun and Schroers, Christopher and Mandt, Stephan. [[paper]](https://proceedings.neurips.cc/paper/2019/file/f1ea154c843f7cf3677db7ce922a2d17-Paper.pdf) 
 
-- (CVPR 19) **Learning image and video compression through spatial-temporal energy compaction**, Cheng, Zhengxue and Sun, Heming and Takeuchi, Masaru and Katto, Jiro. [[paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Cheng_Learning_Image_and_Video_Compression_Through_Spatial-Temporal_Energy_Compaction_CVPR_2019_paper.pdf) 
 
-- (PCS 19) **A novel deep progressive image compression framework**, Cai, Chunlei and Chen, Li and Zhang, Xiaoyun and Lu, Guo and Gao, Zhiyong. [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8954500) 
+
+
   
 - (TCSVT 19) **Image and video compression with neural networks: A review**, Ma, Siwei and Zhang, Xinfeng and Jia, Chuanmin and Zhao, Zhenghui and Wang, Shiqi and Wang, Shanshe. [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8693636) 
+
+
 
 ---
 
