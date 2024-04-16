@@ -16,6 +16,14 @@
 
 ## <span id="2024">✔2024 </span> [       «🎯Back To Top»       ](#)
 
+- (ICASSP 2024) **Rate-Quality Based Rate Control Model for Neural Video Compression**Liao, Shuhong and Jia, Chuanmin and Fan, Hongfei and Yan, Jingwen and Ma, Siwei[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10447777) 
+- (ICASSP 2024) **Learned Video Compression with Spatial-Temporal Optimization** Wang, Yiming and Huang, Qian and Tang, Bin and Liu, Wenting and Shan, Wenchao and Xu, Qian[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10446198) 
+- (ICASSP 2024) **Region-Adaptive Video Sharpening Via Rate-Perception Optimization** Pang, Yingxue and Zhao, Shijie and Guo, Mengxi and Li, Junlin and Zhang, Li [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10446929&casa_token=maZ7QZiRtLIAAAAA:fY0Ate5C0-QcGVKcfgigdZor4FuBS-RY2l5XWgEP_EIKoNU9VkDKqyJ-3vUmPvDdtV3NBOwOCQ) 
+- (ICASSP 2024) **Leveraging Redundancy in Feature for Efficient Learned Image Compression** Qin, Peng and Bao, Youneng and Meng, Fanyang and Tan, Wen and Li, Chao and Wang, Genhong and Liang, Yongsheng [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10447424&casa_token=LvyB8nyNgq4AAAAA:P8Bl52gCJRLfhbJZeqx77XpBpjW59ptF5lBbU3jRFQnr8MuhqrIuwsS7mtd63Hcz7iDayZK2Kw) 
+- (ICASSP 2024) **A Tri-Dynamic Preprocessing Framework for UGC Video Compression** Zhao, Fei and Guo, Mengxi and Zhao, Shijie and Li, Junlin and Zhang, Li and Xie, Xiaodong [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10445837&casa_token=1Gg25Sz6eJkAAAAA:rQRn-jysJ7-nDKslGAHIzSUJCeHKN-90xegmQsv5o-HGRqkAiVuEE9nhWV-qzlOICuKL17vCHQ) 
+- (ICASSP 2024) **Improving Learned Video Compression by Exploring Spatial Redundancy** Yang, Jiayu and Yang, Chunhui and Zhai, Yongqi and Wang, Qi and Pan, Xinghao and Wang, Ronggang [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10448496&casa_token=ladLsmyfXJMAAAAA:wPVZPmeZ260DtCgmKXy9smwYmZR4x6yhKpMnRHgkTVuZZoMqhO-cbvktMJvFdnWXW5vxak1BXA) 
+- (ICASSP 2024) **Learned Video Compression with Spatial-Temporal Optimization** Wang, Yiming and Huang, Qian and Tang, Bin and Liu, Wenting and Shan, Wenchao and Xu, Qian [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10446198&casa_token=yXWdEXN4tkMAAAAA:o-lFjdjZZ2mSXCTXzEuhN7z6w37arL3vMauGcMJwRftbBqu_XnunaByqAcmf3VXpqsXePQJowQ) 
+
 
 - (WCACV 2024) **MobileNVC: Real-time 1080p Neural Video Compression on a Mobile Device** van Rozendaal, Ties and others [paper](https://arxiv.org/pdf/2310.01258.pdf) 
 
@@ -25,7 +33,12 @@
 
 - (TIP 2024) **Cross-Component Prediction Boosted With Local and Non-Local Information in Video Coding** Zhang, Kai and Deng, Zhipin and Zhang, Li [paper](https://ieeexplore.ieee.org/document/10413275)
 
+- (TCSVT 2024) **Exploiting Bidirectional Quality Impulse for Reference Picture Resampled Gaming Video Coding** Fang, Xiaohan and Chen, Peilin and Wang, Meng and Xie, Xi and Wang, Shiqi and Wang, Shanshe and Ma, Siwei [paper](https://ieeexplore.ieee.org/document/10477392/)
+
 - (TCSVT 2024) **Spatial Decomposition and Temporal Fusion based Inter Prediction for Learned Video Compression** Becking, Daniel and M{\"u}ller, Karsten and Haase, Paul and Kirchhoffer, Heiner and Tech, Gerhard and Samek, Wojciech and Schwarz, Heiko and Marpe, Detlev and Wiegand, Thomas [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10412190)
+
+
+- (Arxiv 2024) **Low-Latency Neural Stereo Streaming** Hou, Qiqi and Farhadzadeh, Farzad and Said, Amir and Sautiere, Guillaume and Le, Hoang[paper](https://arxiv.org/pdf/2403.17879.pdf)
 
 
 - (Arxiv 2024) **Analysis of Neural Video Compression Networks for 360-Degree Video Coding** Regensky, Andy and Brand, Fabian and Kaup, Andr{\'e}[paper](https://arxiv.org/pdf/2402.10257.pdf)
