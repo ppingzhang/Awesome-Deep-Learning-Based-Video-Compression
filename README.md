@@ -16,6 +16,13 @@
 
 ## <span id="2024">✔2024 </span> [       «🎯Back To Top»       ](#)
 
+
+- (Arxiv 2024) **Task-Aware Encoder Control for Deep Video Compression**Ge, Xingtong and Luo, Jixiang and Zhang, Xinjie and Xu, Tongda and Lu, Guo and He, Dailan and Geng, Jing and Wang, Yan and Zhang, Jun and Qin, Hongwei[paper](https://arxiv.org/pdf/2404.04848.pdf)
+
+- (Arxiv 2024) **Image and Video Compression using Generative Sparse Representation with Fidelity Controls**Jiang, Wei and Wang, Wei[paper](https://arxiv.org/pdf/2404.06076.pdf)
+- (Trans Broadcasting 2024) **Depth Video Inter Coding Based on Deep Frame Generationl**Li, Ge and Lei, Jianjun and Pan, Zhaoqing and Peng, Bo and Ling, Nam[paper](https://ieeexplore.ieee.org/abstract/document/10485621)
+
+
 - (ICASSP 2024) **Rate-Quality Based Rate Control Model for Neural Video Compression**Liao, Shuhong and Jia, Chuanmin and Fan, Hongfei and Yan, Jingwen and Ma, Siwei[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10447777) 
 - (ICASSP 2024) **Learned Video Compression with Spatial-Temporal Optimization** Wang, Yiming and Huang, Qian and Tang, Bin and Liu, Wenting and Shan, Wenchao and Xu, Qian[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10446198) 
 - (ICASSP 2024) **Region-Adaptive Video Sharpening Via Rate-Perception Optimization** Pang, Yingxue and Zhao, Shijie and Guo, Mengxi and Li, Junlin and Zhang, Li [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10446929&casa_token=maZ7QZiRtLIAAAAA:fY0Ate5C0-QcGVKcfgigdZor4FuBS-RY2l5XWgEP_EIKoNU9VkDKqyJ-3vUmPvDdtV3NBOwOCQ) 
@@ -38,8 +45,8 @@
 - (TCSVT 2024) **Spatial Decomposition and Temporal Fusion based Inter Prediction for Learned Video Compression** Becking, Daniel and M{\"u}ller, Karsten and Haase, Paul and Kirchhoffer, Heiner and Tech, Gerhard and Samek, Wojciech and Schwarz, Heiko and Marpe, Detlev and Wiegand, Thomas [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10412190)
 
 
+- (Arxiv 2024) **CGVC-T: Contextual Generative Video Compression with Transformers** Du, Pengli and Liu, Ying and Ling, Nam[paper](https://ieeexplore.ieee.org/abstract/document/10496072?casa_token=W5EwodaNwdMAAAAA:Ki0F2KsNW7G3tB-_Qp3r92XBObDsMoHn5gQszGarpIfsrs57pHMu9Cx7rrl3nyh-Mu_YbLdDWg)
 - (Arxiv 2024) **Low-Latency Neural Stereo Streaming** Hou, Qiqi and Farhadzadeh, Farzad and Said, Amir and Sautiere, Guillaume and Le, Hoang[paper](https://arxiv.org/pdf/2403.17879.pdf)
-
 
 - (Arxiv 2024) **Analysis of Neural Video Compression Networks for 360-Degree Video Coding** Regensky, Andy and Brand, Fabian and Kaup, Andr{\'e}[paper](https://arxiv.org/pdf/2402.10257.pdf)
 
