@@ -16,10 +16,13 @@
 
 ## <span id="2024">✔2024 </span> [       «🎯Back To Top»       ](#)
 
+- (ToMM 2024) **Learned Video Compression with Adaptive Temporal Prior and Decoded Motion-aided Quality Enhancement** Yang, Jiayu and Yang, Chunhui and Xiong, Fei and Zhai, Yongqi and Wang, Ronggang[paper](https://dl.acm.org/doi/pdf/10.1145/3661824)
 
 - (Arxiv 2024) **Task-Aware Encoder Control for Deep Video Compression**Ge, Xingtong and Luo, Jixiang and Zhang, Xinjie and Xu, Tongda and Lu, Guo and He, Dailan and Geng, Jing and Wang, Yan and Zhang, Jun and Qin, Hongwei[paper](https://arxiv.org/pdf/2404.04848.pdf)
 
 - (Arxiv 2024) **Image and Video Compression using Generative Sparse Representation with Fidelity Controls**Jiang, Wei and Wang, Wei[paper](https://arxiv.org/pdf/2404.06076.pdf)
+- (Arxiv 2024) **A Perspective on Deep Vision Performance with Standard Image and Video Codecs**Reich, Christoph and Hahn, Oliver and Cremers, Daniel and Roth, Stefan and Debnath, Biplob[paper](https://arxiv.org/pdf/2404.12330)
+
 - (Trans Broadcasting 2024) **Depth Video Inter Coding Based on Deep Frame Generationl**Li, Ge and Lei, Jianjun and Pan, Zhaoqing and Peng, Bo and Ling, Nam[paper](https://ieeexplore.ieee.org/abstract/document/10485621)
 
 
@@ -44,7 +47,7 @@
 
 - (TCSVT 2024) **Spatial Decomposition and Temporal Fusion based Inter Prediction for Learned Video Compression** Becking, Daniel and M{\"u}ller, Karsten and Haase, Paul and Kirchhoffer, Heiner and Tech, Gerhard and Samek, Wojciech and Schwarz, Heiko and Marpe, Detlev and Wiegand, Thomas [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10412190)
 
-
+- (Arxiv 2024) **Group-aware Parameter-efficient Updating for Content-Adaptive Neural Video Compression** Chen, Zhenghao and Zhou, Luping and Hu, Zhihao and Xu, Dong[paper](https://arxiv.org/pdf/2405.04274)
 - (Arxiv 2024) **CGVC-T: Contextual Generative Video Compression with Transformers** Du, Pengli and Liu, Ying and Ling, Nam[paper](https://ieeexplore.ieee.org/abstract/document/10496072?casa_token=W5EwodaNwdMAAAAA:Ki0F2KsNW7G3tB-_Qp3r92XBObDsMoHn5gQszGarpIfsrs57pHMu9Cx7rrl3nyh-Mu_YbLdDWg)
 - (Arxiv 2024) **Low-Latency Neural Stereo Streaming** Hou, Qiqi and Farhadzadeh, Farzad and Said, Amir and Sautiere, Guillaume and Le, Hoang[paper](https://arxiv.org/pdf/2403.17879.pdf)
 
