@@ -4,7 +4,15 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![Visitors](https://visitor-badge.glitch.me/badge?page_id=ppingzhang/Awesome-Deep-Learning-Based-Video-Compression) ![GitHub stars](https://img.shields.io/github/stars/ppingzhang/Awesome-Deep-Learning-Based-Video-Compression.svg?color=red) 
 
-# Content
+# Contents (This part is updated from June 2024)
+- [Generative](#Generative)
+- [Lossless compression](#LosslessCompression)
+- [Rate Control](#RateControl)
+- [INNs](implicit)
+
+
+
+# Group by time （This section stops updating from June 2024）
 - [2024](#2024)
 - [2023](#2023)
 - [2022](#2022)
@@ -14,7 +22,42 @@
 - [2018](#2018)
 - [2017](#2017)
 
+------
+
+## <span id="Generative">- Generative </span> [       «🎯Back To Top»       ](#)
+
+- **I2VC: A Unified Framework for Intra- & Inter-frame Video Compression** (Arixv 2024) [paper](https://arxiv.org/pdf/2405.14336)
+
+- **PredToken: Predicting Unknown Tokens and Beyond with Coarse-to-Fine Iterative Decoding** (Arxiv 2024) [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/)
+
+- **SMC++: Masked Learning of Unsupervised Video Semantic Compression** (Arxiv 2024) [paper](https://arxiv.org/pdf/2406.04765/)
+
+## <span id="LosslessCompression">- Lossless compression </span> [       «🎯Back To Top»       ](#)
+
+- **Hybrid-context-based multi-prior entropy modeling for learned lossless image compression** (Parttern Recognition 2024) [paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320324003832)
+
+
+## <span id="RateControl">- Rate Control </span> [       «🎯Back To Top»       ](#)
+
+- **Deep Video Codec Control for Vision Models** (CVPR 2024) [paper](https://openaccess.thecvf.com/content/CVPR2024W/AI4Streaming/papers/Reich_Deep_Video_Codec_Control_for_Vision_Models_CVPRW_2024_paper.pdf)
+
+
+
+
+## <span id="implicit">- INNs </span> [       «🎯Back To Top»       ](#)
+
+- **Combining Frame and GOP Embeddings for Neural Video Representation** (CVPR 2024) [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Saethre_Combining_Frame_and_GOP_Embeddings_for_Neural_Video_Representation_CVPR_2024_paper.pdf)
+
+
+
+------
+
+
 ## <span id="2024">✔2024 </span> [       «🎯Back To Top»       ](#)
+
+
+- (CVPR 2024) ** Deep Video Codec Control for Vision Models** Reich C, Debnath B, Patel D, et al. [paper](https://openaccess.thecvf.com/content/CVPR2024W/AI4Streaming/papers/Reich_Deep_Video_Codec_Control_for_Vision_Models_CVPRW_2024_paper.pdf)
+
 
 - (ToMM 2024) **Learned Video Compression with Adaptive Temporal Prior and Decoded Motion-aided Quality Enhancement** Yang, Jiayu and Yang, Chunhui and Xiong, Fei and Zhai, Yongqi and Wang, Ronggang[paper](https://dl.acm.org/doi/pdf/10.1145/3661824)
 
