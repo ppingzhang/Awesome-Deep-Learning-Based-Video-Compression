@@ -5,10 +5,12 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![Visitors](https://visitor-badge.glitch.me/badge?page_id=ppingzhang/Awesome-Deep-Learning-Based-Video-Compression) ![GitHub stars](https://img.shields.io/github/stars/ppingzhang/Awesome-Deep-Learning-Based-Video-Compression.svg?color=red) 
 
 # Contents (This part is updated from June 2024)
-- [Generative](#Generative)
-- [Lossless compression](#LosslessCompression)
+- [Generative compression](#Generative)
+- [VCM](#VCM)
 - [Rate Control](#RateControl)
-- [INNs](implicit)
+- [INNs](#implicit)
+- [Low Complexity](#lowcomplexity)
+- [Motion](#motion)
 
 
 
@@ -24,7 +26,9 @@
 
 ------
 
-## <span id="Generative">- Generative </span> [       «🎯Back To Top»       ](#)
+## <span id="Generative"> Generative compression</span> [       «🎯Back To Top»       ](#)
+
+- **CodingHomo: Bootstrapping Deep Homography with Video Coding** (TCSVT 2024) [paper](https://ieeexplore.ieee.org/document/10570492/authors#authors)
 
 - **I2VC: A Unified Framework for Intra- & Inter-frame Video Compression** (Arixv 2024) [paper](https://arxiv.org/pdf/2405.14336)
 
@@ -32,23 +36,36 @@
 
 - **SMC++: Masked Learning of Unsupervised Video Semantic Compression** (Arxiv 2024) [paper](https://arxiv.org/pdf/2406.04765/)
 
-## <span id="LosslessCompression">- Lossless compression </span> [       «🎯Back To Top»       ](#)
 
-- **Hybrid-context-based multi-prior entropy modeling for learned lossless image compression** (Parttern Recognition 2024) [paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320324003832)
+## <span id="VCM"> Video Coding for Machine</span> [       «🎯Back To Top»       ](#)
+
+- **On Annotation-free Optimization of Video Coding for Machines** (arXiv 2024) [paper](https://arxiv.org/pdf/2406.07938)
+
+- **Competitive Learning for Achieving Content-specific Filters in Video Coding for Machines** (arXiv 2024) [paper](https://arxiv.org/pdf/2406.12367)
 
 
-## <span id="RateControl">- Rate Control </span> [       «🎯Back To Top»       ](#)
+## <span id="RateControl"> Rate Control </span> [       «🎯Back To Top»       ](#)
 
 - **Deep Video Codec Control for Vision Models** (CVPR 2024) [paper](https://openaccess.thecvf.com/content/CVPR2024W/AI4Streaming/papers/Reich_Deep_Video_Codec_Control_for_Vision_Models_CVPRW_2024_paper.pdf)
 
 
 
+## <span id="implicit"> INNs </span> [       «🎯Back To Top»       ](#)
 
-## <span id="implicit">- INNs </span> [       «🎯Back To Top»       ](#)
+- **QS-NeRV: Real-Time Quality-Scalable Decoding with Neural Representation for Videos** (ACM MM 2024) [paper](https://openreview.net/pdf?id=vJbyT9bYgf)
+
+- **Temporal Enhanced Hybrid Neural Representation for Video Compression** (PCS 2024) [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10566352&casa_token=Wj65ixeg3vgAAAAA:xqiVqUfQr-OJI5dKukLPbTE3wgpw9BpJYrywM999ul_5BKUBwI-Cwne-YQHiDU5bxbGcEt8)
 
 - **Combining Frame and GOP Embeddings for Neural Video Representation** (CVPR 2024) [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Saethre_Combining_Frame_and_GOP_Embeddings_for_Neural_Video_Representation_CVPR_2024_paper.pdf)
 
+## <span id="lowcomplexity"> Low Complexity </span> [       «🎯Back To Top»       ](#)
 
+- **Standard compliant video coding using low complexity, switchable neural wrappers** (arXiv 2024) [paper](https://arxiv.org/pdf/2407.07395)
+
+
+
+## <span id="motion"> Motion Related </span> [       «🎯Back To Top»       ](#)
+- **Spatial Neighbor Information Assisted Motion Compensated Temporal Filter for Video Coding** (PCS 2024) [paper](https://ieeexplore.ieee.org/document/10566466)
 
 ------
 
