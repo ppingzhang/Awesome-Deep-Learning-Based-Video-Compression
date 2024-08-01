@@ -88,7 +88,7 @@
 ## <span id="2024">✔2024 </span> [       «🎯Back To Top»       ](#)
 
 
-- (CVPR 2024) ** Deep Video Codec Control for Vision Models** Reich C, Debnath B, Patel D, et al. [paper](https://openaccess.thecvf.com/content/CVPR2024W/AI4Streaming/papers/Reich_Deep_Video_Codec_Control_for_Vision_Models_CVPRW_2024_paper.pdf)
+- (CVPR 2024) **Deep Video Codec Control for Vision Models** Reich C, Debnath B, Patel D, et al. [paper](https://openaccess.thecvf.com/content/CVPR2024W/AI4Streaming/papers/Reich_Deep_Video_Codec_Control_for_Vision_Models_CVPRW_2024_paper.pdf)
 
 
 - (ToMM 2024) **Learned Video Compression with Adaptive Temporal Prior and Decoded Motion-aided Quality Enhancement** Yang, Jiayu and Yang, Chunhui and Xiong, Fei and Zhai, Yongqi and Wang, Ronggang[paper](https://dl.acm.org/doi/pdf/10.1145/3661824)
