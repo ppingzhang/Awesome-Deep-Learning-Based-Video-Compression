@@ -4,7 +4,7 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![Visitors](https://visitor-badge.glitch.me/badge?page_id=ppingzhang/Awesome-Deep-Learning-Based-Video-Compression) ![GitHub stars](https://img.shields.io/github/stars/ppingzhang/Awesome-Deep-Learning-Based-Video-Compression.svg?color=red) 
 
-# Contents (This part is updated from June 2024)
+# Contents (After June 2024)
 - [Generative compression](#Generative)
 - [Architecture](#ar)
 - [VCM & Feature Compression](#VCM)
@@ -16,7 +16,7 @@
 
 
 
-# Group by time （This section stops updating from June 2024）
+# Group by time （Before June 2024）
 - [2024](#2024)
 - [2023](#2023)
 - [2022](#2022)
