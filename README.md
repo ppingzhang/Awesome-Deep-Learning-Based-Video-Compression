@@ -61,7 +61,6 @@
 |:-----|:-----|
 |[Learned Multimodal Compression for Autonomous Driving](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10743791&casa_token=z5NqhvgXTigAAAAA:nOQNaJ2qxq5Cpr8a6ViW4up32c_fLiiLw5tHbDXsoYSWWL-xN3Xz4mdyvIR87gbjqHhoxbA) | MMSP 2024
 |[DMVC: Multi-Camera Video Compression Network aimed at Improving Deep Learning Accuracy](https://arxiv.org/pdf/2410.18400) | arXiv 2024
-
 |[Picture Partitioning Design of Neural Network-Based Intra Coding For Video Coding For Machines](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10647747) | ICIP 2024
 |[ROI-DVC: A Region-of-Interest Based Deep Video Coding Framework](https://arxiv.org/pdf/2203.01978) | ICIP 2024
 ｜[Free-VSC: Free Semantics from Visual Foundation Models for Unsupervised Video Semantic Compression](https://arxiv.org/pdf/2409.11718) | arXiv 2024
