@@ -79,7 +79,7 @@
 | [Deep Video Codec Control for Vision Models](https://openaccess.thecvf.com/content/CVPR2024W/AI4Streaming/papers/Reich_Deep_Video_Codec_Control_for_Vision_Models_CVPRW_2024_paper.pdf) | CVPR 2024
 
 
-### <span id="implicit"> INR
+### <span id="implicit"> Implicit Neural Representation
 | Title | Pub. & Date
 |:-----|:-----|
 |[NVRC: Neural Video Representation Compression](https://arxiv.org/pdf/2409.07414) | arXiv 2024
