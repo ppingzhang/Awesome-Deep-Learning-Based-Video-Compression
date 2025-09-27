@@ -71,6 +71,8 @@
 
 
 ### <span id="multiv"> MultiView & 360 Degree Video Compression
+| Title | Pub. & Date
+|:-----|:-----|
 |[Beyond Perspective: Neural 360-Degree Video Compression](https://iccv.thecvf.com/virtual/2025/poster/879)|CVPR 2025
 |[FV-NeRV: Neural Compression for Free Viewpoint Videos](https://openreview.net/pdf?id=hrXt6Fdl2P)| arXiv 2025
 |[A Multi-Grid Implicit Neural Representation for Multi-View Videos](https://arxiv.org/pdf/2509.16706) |  arXiv 2025
