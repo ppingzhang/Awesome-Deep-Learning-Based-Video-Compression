@@ -7,12 +7,14 @@
 # Contents (After June 2024)
 - [Generative compression](#Generative)
 - [Architecture](#ar)
+- [MultiView & 360 Degree ](#multiv)
 - [VCM & Feature Compression](#VCM)
 - [Rate Control & Vraible rate](#RateControl)
 - [Implicit neural representation](#implicit)
 - [Low Complexity & Speed](#lowcomplexity)
 - [Motion & Prediction](#motion)
 - [Benchmark & Dataset & Survey](#bmk)
+
 
 
 
@@ -33,6 +35,7 @@
 
 | Title | Pub. & Date
 |:-----|:-----|
+
 |[Ultra-Low Bitrate Face Video Compression Based on Conversions from 3D Keypoints to 2D Motion Map](http://arxiv.org/abs/2210.03335v1) | TIP 2024
 |[Diffusion-based Perceptual Neural Video Compression with Temporal Diffusion Information Reuse](http://arxiv.org/abs/2501.13528v1) | arXiv 2025
 |[Generative Human Video Compression with Multi-granularity Temporal Trajectory Factorization](https://arxiv.org/abs/2410.10171) | arXiv 2024
@@ -48,6 +51,11 @@
 
 | Title | Pub. & Date
 |:-----|:-----|
+|[Long-term Temporal Context Gathering for Neural Video Compression](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08346.pdf)| ECCV 2025
+|[CRAM: Large-scale Video Continual Learning with Bootstrapped Compression](https://www.arxiv.org/pdf/2508.05001)| ICCV 2025
+|[Context Guided Transformer Entropy Modeling for Video Compression](https://iccv.thecvf.com/virtual/2025/poster/906)| ICCV 2025
+|[EHVC: Efficient Hierarchical Reference and Quality Structure for Neural Video Coding](https://arxiv.org/pdf/2509.04118) | ACMMM 2025
+|[Neural Video Compression with In-Loop Contextual Filtering and Out-of-Loop Reconstruction Enhancement](https://arxiv.org/pdf/2509.04051?) | arXiv 2025
 |[An image to tailor: I-Frame Domain Adaptation in Neural Video Compression](https://openreview.net/pdf?id=6AU7JglYSV) | NeurIPSW 2024 
 |[Adaptive Surveillance Video Compression With Background Hyperprior](http://arxiv.org/abs/2001.06590v3) | SPL 2024
 |[Hybrid Scalable Video Coding with Neural Compression and Enhancement for Streaming Media](http://arxiv.org/abs/2107.05548v2) | ACM MM 2024
@@ -61,6 +69,13 @@
 |[Spatio-temporal convolutional neural network for enhanced inter prediction in video coding](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10648618) | TIP 2024
 |[NVC-1B: A Large Neural Video Coding Model](https://arxiv.org/pdf/2407.19402) | arXiv 2024
 |[Bi-Directional Deep Contextual Video Compression](https://arxiv.org/pdf/2408.08604) | arXiv 2024
+
+
+### <span id="multiv"> MultiView & 360 Degree Video Compression
+|[Beyond Perspective: Neural 360-Degree Video Compression](https://iccv.thecvf.com/virtual/2025/poster/879)|CVPR 2025
+|[FV-NeRV: Neural Compression for Free Viewpoint Videos](https://openreview.net/pdf?id=hrXt6Fdl2P)| arXiv 2025
+|[A Multi-Grid Implicit Neural Representation for Multi-View Videos](https://arxiv.org/pdf/2509.16706) |  arXiv 2025
+
 
 
 ### <span id="VCM"> Video Coding for Machine & Feature compression
@@ -86,6 +101,7 @@
 ### <span id="RateControl"> Rate Control & Vraible rate
 | Title | Pub. & Date
 |:-----|:-----|
+|[Learned Rate Control for Frame-Level Adaptive Neural Video Compression via Dynamic Neural Network](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/11394.pdf)| ECCV 2025
 |[Perception Loss Function Adaptive to Rate for Learned Video Compression](https://openreview.net/forum?id=XQN2sBSjuQ&referrer=%5Bthe%20profile%20of%20Buu%20Phan%5D(%2Fprofile%3Fid%3D~Buu_Phan3)) | NeurIPS 2024 
 |[Content-Adaptive Rate Control Method for User-Generated Content Videos](http://arxiv.org/abs/2412.18834v1) | TCSVT 2024
 |[Adaptive Rate Control for Deep Video Compression with Rate-Distortion Prediction](http://arxiv.org/abs/2412.18834v1) | arXiv 2024
@@ -96,11 +112,14 @@
 ### <span id="implicit"> Implicit Neural Representation
 | Title | Pub. & Date
 |:-----|:-----|
+|[GIViC: Generative Implicit Video Compression](https://arxiv.org/pdf/2503.19604)| ICCV 2025
+|[Towards Practical Real-Time Neural Video Compression](https://openaccess.thecvf.com/content/CVPR2025/papers/Jia_Towards_Practical_Real-Time_Neural_Video_Compression_CVPR_2025_paper.pdf)| CVPR 2025
+|[A Multi-Grid Implicit Neural Representation for Multi-View Videos](https://arxiv.org/pdf/2509.16706) |  Arxiv 2025
 |[SNeRV: Scalable Neural Representations for Video Coding](https://openreview.net/pdf?id=ZqN4bnXSSY) |  NeurIPSW 2024 
 |[HFS-HNeRV: High-Frequency Spectrum Hybrid Neural Representation for Videos](None) | ACM MM 2024
 |[High-Frequency Enhanced Hybrid Neural Representation for Video Compression](http://arxiv.org/abs/2410.01654v2) | arXiv 2024
-| [NVRC: Neural Video Representation Compression](https://arxiv.org/pdf/2409.07414) | arXiv 2024
-| [PNVC: Towards Practical INR-based Video Compression](https://arxiv.org/pdf/2409.00953) | arXiv 2024
+| [NVRC: Neural Video Representation Compression](https://arxiv.org/pdf/2409.07414) | NeurPIS 2024
+| [PNVC: Towards Practical INR-based Video Compression](https://arxiv.org/pdf/2409.00953) | AAAI 2025
 | [High-Frequency Enhanced Hybrid Neural Representation for Video Compression](https://arxiv.org/pdf/2411.06685) | arXiv 2024
 | [Fast Encoding and Decoding for Implicit Video Representation](https://link.springer.com/chapter/10.1007/978-3-031-72933-1_23)  | ECCV 2024
 | [QS-NeRV: Real-Time Quality-Scalable Decoding with Neural Representation for Videos](https://openreview.net/pdf?id=vJbyT9bYgf)  | ACM MM 2024
@@ -120,6 +139,8 @@
 ### <span id="motion"> Motion & Prediction
 | Title | Pub. & Date
 |:-----|:-----|
+|[Perceptual Video Compression with Neural Wrapping](https://openaccess.thecvf.com/content/CVPR2025/papers/Khan_Perceptual_Video_Compression_with_Neural_Wrapping_CVPR_2025_paper.pdf)| CVPR 2025
+|[FLAVC: Learned Video Compression with Feature Level Attention](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhang_FLAVC_Learned_Video_Compression_with_Feature_Level_Attention_CVPR_2025_paper.pdf)| CVPR 2025
 |[CodingHomo: Bootstrapping Deep Homography With Video Coding](https://ieeexplore.ieee.org/document/10570492) | TCSVT 2024
 | [Deep Video Compression with Scaled Hierarchical Bi-directional Motion Model](https://dl.acm.org/doi/pdf/10.1145/3664647.3685524?casa_token=YML8Fy3tKDwAAAAA:3rMIk_MV86yMzc_U6FV7cl3mXydMFhWiQTFl5qetd2czGsGPHvXlhlmxXxNyLshHPn_Ui0dVk0U) | ACMMM 2024
 | [Multi-Scale Motion Alignment and Frame Reconstruction for Efficient Deep Video Compression](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10636206) | SPL 2024
@@ -215,7 +236,7 @@
 
 
 - (TPAMI 2023) **Compressed-SDR to HDR Video Reconstruction** Wang, Hu and Ye, Mao and Zhu, Xiatian and Li, Shuai and Li, Xue and Zhu, Ce [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10373884&casa_token=0YwYzQr-mtIAAAAA:fRzSWMZHeYm4f4lBNIZFowtNF9ZZxh5Lm7B36KGipe_6I1WgOWB50iqbNvOWdEP4tSU5DH8JIw)
-- (TIP 2023) **Sur-driven video coding rate control for jointly optimizing perceptual quality and buffer control** Yang, Zetao and Gao, Wei and Li, Ge and Yan, Yiqiang [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10266980&casa_token=AgyJU8S3bVUAAAAA:y7CRQnfjtPHN4HBuayf_xeY5QlAMdhhNlCO6CnNUqhMuwMuqyzhuBG52CxQAEphl8_0nfzXx)
+- (TIP 2023) **Sur-driven video Bitrate control for jointly optimizing perceptual quality and buffer control** Yang, Zetao and Gao, Wei and Li, Ge and Yan, Yiqiang [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10266980&casa_token=AgyJU8S3bVUAAAAA:y7CRQnfjtPHN4HBuayf_xeY5QlAMdhhNlCO6CnNUqhMuwMuqyzhuBG52CxQAEphl8_0nfzXx)
 - (Trans BROADCASTING 2023) **Virtual-Competitors-Based Rate Control for 360-Degree Video Coding** Lin, Jielian and Lin, Hongbin and Xu, Yiwen and Kang, Yuanxun and Zhao, Tiesong [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10341540)
 
 - (Neurocomputing 2023) **Multiple Hypotheses Based Motion Compensation for Learned Video Compression** Lin, Rongqun and Wang, Meng and Zhang, Pingping and Wang, Shiqi and Kwong, Sam [paper](https://www.sciencedirect.com/science/article/pii/S0925231223005192?casa_token=4V7fGASs-pYAAAAA:8Lk-HCwftOicqBzj2F6i3YVJCOd9MUnokVmDANZRU1D7mwIPauX_pAAcCaMqiVWKCNzkwFSp)
