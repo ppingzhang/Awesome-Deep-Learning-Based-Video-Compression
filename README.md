@@ -35,7 +35,6 @@
 
 | Title | Pub. & Date
 |:-----|:-----|
-
 |[Ultra-Low Bitrate Face Video Compression Based on Conversions from 3D Keypoints to 2D Motion Map](http://arxiv.org/abs/2210.03335v1) | TIP 2024
 |[Diffusion-based Perceptual Neural Video Compression with Temporal Diffusion Information Reuse](http://arxiv.org/abs/2501.13528v1) | arXiv 2025
 |[Generative Human Video Compression with Multi-granularity Temporal Trajectory Factorization](https://arxiv.org/abs/2410.10171) | arXiv 2024
